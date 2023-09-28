@@ -1,6 +1,11 @@
 #! https://zhuanlan.zhihu.com/p/650729882
 # lec02-容器
 
+- 什么是容器与镜像？如何构建容器与镜像
+- 容器的生命周期
+- 容器项目的架构
+- 容器 VS.VM
+
 ## Resources
 
 - 课程官网：https://edu.aliyun.com/course/314164/?spm=a2cwt.28120018.314164.1.64de1ee9GBAhjO

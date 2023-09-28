@@ -1,6 +1,10 @@
 #! https://zhuanlan.zhihu.com/p/656967680
 # lec03-Kubernetes核心概念
 
+- 什么是 Kubernetes ：介绍 Kubernetes 的主要功能以及能力；
+- Kubernetes 的架构：介绍 Kubernetes 的核心组件，以及介绍它们之间是如何相互互动连接；
+- Kubernetes 的核心概念与核心 API；
+
 ## Resources
 
 - 课程官网：https://edu.aliyun.com/course/314164/?spm=a2cwt.28120018.314164.1.64de1ee9GBAhjO
